@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+}
+
+/* td{
+  border: 5px solid black;
+  height: 100px;
+  width: 100px;
+  padding-top: 5px;
+} */
+
+.board button{
+  border: 5px solid black;
+  height: 100px;
+  width: 100px;
+  padding-top: 5px;
+  border-radius: 50px;
+  background-color: grey;
+}
